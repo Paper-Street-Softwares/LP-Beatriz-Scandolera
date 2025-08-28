@@ -22,6 +22,8 @@ export default function AboutModal() {
         <Trans i18nKey="about.modal" components={{ br: <br /> }} />
 
         <div className="mt-4">
+          <p className="mb-[20px]">Quer saber mais? Clique abaixo 👇</p>
+
           <Button
             aria-label={t("about.ctaButtonAriaLabel")}
             label={t("about.ctaButtonText")}
