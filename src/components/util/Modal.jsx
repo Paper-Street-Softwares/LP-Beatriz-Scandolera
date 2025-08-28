@@ -18,7 +18,7 @@ export default function Modal({ isOpen, setCloseModal }) {
   };
 
   if (isOpen) {
-    return (
+    return (  
       <div>
         <button
           className="relative grid items-center justify-center bg-lighter shadow-2xl rounded-xl"
