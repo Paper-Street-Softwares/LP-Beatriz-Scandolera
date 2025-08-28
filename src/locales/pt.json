@@ -17,12 +17,12 @@
     "ctaButtonTextResponsive": "Contato"
   },
   "hero": {
-    "miniTag": "A_Definir",
-    "title": "A_Definir <span class=\"text-primary font-bold\">A_Definir</span>",
-    "subtitle": "A_Definir",
-    "ctaButtonText": "A_Definir",
+    "miniTag": "ADVOGADA DA SAÚDE",
+    "title": "Quando a saúde vira um <span class=\"text-primary font-bold\">desafio legal</span>",
+    "subtitle": "Planos de saúde negam? Entenda como a lei pode ser sua maior aliada na luta por seus direitos.",
+    "ctaButtonText": "Quero entender meus direitos",
     "obsHero": {
-      "text": "A_Definir"
+      "text": "Atendimento exclusivamente online."
     }
   },
   "features": {
