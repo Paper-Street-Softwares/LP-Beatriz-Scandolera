@@ -88,12 +88,12 @@ export default function NavbarSocial({ colorMode, mode }) {
     }
     if (colorMode === "dark") {
       return scrolling
-        ? "bg-gradient-to-b from-black to-bgFixedDark shadow-lg border-b-[1px] border-primary"
+        ? "bg-gradient-to-b from-black to-bgFixedDark shadow-lg border-b-[1px] border-white"
         : "bg-gradient-to-b from-black to-bgFixedDark border-b-[1px] border-none";
     }
     // default
     return scrolling
-      ? "bg-gradient-to-b from-black to-bgSectionDark bg-opacity-100 shadow-lg border-b-[1px] border-primary"
+      ? "bg-gradient-to-b from-black to-bgSectionDark bg-opacity-100 shadow-lg border-b-[1px] border-white"
       : "bg-gradient-to-b from-black to-transparent border-b-[1px] border-none";
   };
 
