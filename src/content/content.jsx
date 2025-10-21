@@ -330,8 +330,8 @@ const content = {
       },
       card5: {
         img: featuresImg3,
-        title: "A_Definir",
-        subtitle: "A_Definir",
+        title: "Direito Administrativo",
+        subtitle: "Atuação em processos e demandas envolvendo órgãos públicos.",
         description: (
           <div>
             A_Definir
@@ -352,11 +352,13 @@ const content = {
             stroke-width="2"
             stroke-linecap="round"
             stroke-linejoin="round"
-            class="lucide lucide-circle-dollar-sign-icon lucide-circle-dollar-sign"
+            class="lucide lucide-scale-icon lucide-scale"
           >
-            <circle cx="12" cy="12" r="10" />
-            <path d="M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8" />
-            <path d="M12 18V6" />
+            <path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z" />
+            <path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z" />
+            <path d="M7 21h10" />
+            <path d="M12 3v18" />
+            <path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2" />
           </svg>
         ),
         buttonLabelModal: "Fale Conosco",
@@ -364,8 +366,9 @@ const content = {
       },
       card6: {
         img: 3,
-        title: "A_Definir",
-        subtitle: "A_Definir",
+        title: "Consultoria Jurídica",
+        subtitle:
+          "Análise preventiva e estratégica para decisões seguras e eficazes.",
         description: (
           <div>
             A_Definir
@@ -386,11 +389,11 @@ const content = {
             stroke-width="2"
             stroke-linecap="round"
             stroke-linejoin="round"
-            class="lucide lucide-circle-dollar-sign-icon lucide-circle-dollar-sign"
+            class="lucide lucide-book-open-check-icon lucide-book-open-check"
           >
-            <circle cx="12" cy="12" r="10" />
-            <path d="M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8" />
-            <path d="M12 18V6" />
+            <path d="M12 21V7" />
+            <path d="m16 12 2 2 4-4" />
+            <path d="M22 6V4a1 1 0 0 0-1-1h-5a4 4 0 0 0-4 4 4 4 0 0 0-4-4H3a1 1 0 0 0-1 1v13a1 1 0 0 0 1 1h6a3 3 0 0 1 3 3 3 3 0 0 1 3-3h6a1 1 0 0 0 1-1v-1.3" />
           </svg>
         ),
         buttonLabelModal: "Fale Conosco",
